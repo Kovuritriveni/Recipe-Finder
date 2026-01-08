@@ -65,14 +65,6 @@ JavaScript dynamically creates recipe cards using DOM manipulation
 
 Clicking a recipe opens a modal with full details
 
-📁 Project Structure
-Recipe-Finder/
-│
-├── index.html      # Main HTML structure
-├── style.css       # Styling and UI design
-├── main.js         # JavaScript logic & API handling
-└── README.md       # Project documentation
-
 🧠 JavaScript Concepts Used
 
 DOM Manipulation
