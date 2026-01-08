@@ -5,7 +5,7 @@ The application fetches real-time recipe data from a public REST API and display
 
 🔥 Features
 
-🔍 Search recipes by name
+🔍 Search recipes by name 
 
 🎲 Get a random recipe
 
